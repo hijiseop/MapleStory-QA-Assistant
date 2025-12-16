@@ -1,0 +1,5 @@
+{
+  "name": "MapleStory QA Assistant",
+  "description": "An AI-powered QA planning tool for MapleStory Test World releases. Input release notes or links to generate targeted test plans, risk assessments, and bug predictions.",
+  "requestFramePermissions": []
+}
